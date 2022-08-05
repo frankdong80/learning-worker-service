@@ -1,0 +1,1 @@
+﻿sc.exe create "learning_worker_service" binpath="C:\Path\To\dotnet.exe C:\Path\To\App.WindowsService.dll"
